@@ -1,0 +1,7 @@
+Learn the method of using diff to find the difference between two versions of a file.
+Saving the entire history of a file can help me debug.
+Pros: Have less versions of file. Cons: There is the chance when people forget to save the old version.
+The objects they deal with are different.
+Git log -- view the commits ID; Git diff -- view the difference between two commits.
+It can help me dug more easily.
+Download and learn to use code from GitHub
