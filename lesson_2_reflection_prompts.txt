@@ -1,0 +1,2 @@
+An empty repository was created. I need a repository to save old version of all the files.
+It helps to give a more procise control of our commits.
