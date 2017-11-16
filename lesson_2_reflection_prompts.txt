@@ -1,2 +1,7 @@
 An empty repository was created. I need a repository to save old version of all the files.
 It helps to give a more procise control of our commits.
+Use git diff and git diff --staged to check if the logical change was added to the staging area or committed to the repository.
+When I want to create a new version of the file and I don't want to change the old version, branch is helpful.
+Diagram can make the structure more clearly.
+Marging two branches help us combine different works from different people, it's high efficient.
+Marging automatically will definitely help.
